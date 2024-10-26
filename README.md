@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hello, my name is João Vitor Bosetti !!!
 
-<!--
-**Bosetti09/Bosetti09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💼 Professional profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programming and I.T Student
+- 🌱 Love Technology
+- 🎓 Attending High School with Integrated Computer Technician on IFSC XXE
+
+## ⛩️ Hobies:
+- 🎵 Play the piano
+- 🏀 Play E-games and basketball
+
+## 🚀 Habilities
+
+Here some programing languages and technologies who I'm accustumed to use:
+
+## 👨‍💻 ISOs: 
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
+## 👨‍💻 Programing languages: 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+
+## ⚙️ Tools:
+
+![My Skills](https://skillicons.dev/icons?i=github,vscode)
+
+## 📫 Contact:
+
+![Gmail Badge](https://img.shields.io/badge/-joaovitorbosetti09@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitorbosetti09@gmail.com)
+
+## 🔝 Status:
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Bosetti09&show_icons=true&theme=radical" alt="Bosetti GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosetti09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
+  </div>
+</div>
+
+##
+<div align="center">
+  <h3><b>📍 Profile Visitor Count 📍</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Bosetti09/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
