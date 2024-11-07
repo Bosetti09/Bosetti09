@@ -1,18 +1,21 @@
-## Hello, my name is João Vitor Bosetti !!!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+João+Vitor+Bosetti+!!!;I'm+15+years+old;I'm+from+Ponte+Serrada,+SC;I+study+I.T+and+web+development+at+IFSC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="300px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="300px"/>
 
-## 💼 Professional profile
+ 💼 Professional profile:
 
 - 💻 Programming and I.T Student
 - 🌱 Love Technology
 - 🎓 Attending High School with Integrated Computer Technician on IFSC XXE
 
-## ⛩️ Hobies:
+⛩️ Hobies:
 - 🎵 Play the piano
 - 🏀 Play E-games and basketball
 
-## 🚀 Habilities
-
+🚀 Habilities:
 Here some programing languages and technologies who I'm accustumed to use:
 
 ## 👨‍💻 ISOs: 
@@ -25,7 +28,11 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## ⚙️ Tools:
 
-![My Skills](https://skillicons.dev/icons?i=github,vscode)
+![My Skills](https://skillicons.dev/icons?i=github,vscode,discord)
+
+## 📚 Learning:
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,bash)](https://skillicons.dev)
 
 ## 📫 Contact:
 
@@ -35,10 +42,12 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Bosetti09&show_icons=true&theme=radical" alt="Bosetti GitHub stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosetti09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
+    <img src="https://github-profile-trophy.vercel.app/?username=Bosetti09&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=10" />
   </div>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bosetti09&bg_color=000000&color=15e5a6&line=FF0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 <div align="center">
@@ -51,4 +60,3 @@ Here some programing languages and technologies who I'm accustumed to use:
     alt="Número de visitantes no perfil"
   />
 </p>
-
